@@ -1,4 +1,4 @@
 # si630_project
 This is the final project for SI630
-## Abstrack
+## Abstract
 Text summarization is an essential application of text generation in natural language processing, which aims to extract key information from input text and form coherent and readable sentences. With the emergence of numerous pre-trained models such as GPT, BERT, and T5, these models have been extensively applied to text generation tasks. In this project, I implemented a text summarization model by fine-tuning the T5 pre-trained model on the WikiHow Dataset. The model was evaluated using ROUGE metrics, and its performance surpassed the Lead-N and TextRank baseline methods, validating the model's effectiveness. Based on this project's results, we can fine-tune pre-trained models on datasets from specific domains to obtain text summarization models on those specific domains.
